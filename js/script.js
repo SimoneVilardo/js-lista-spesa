@@ -1,5 +1,5 @@
 // ARRAY SPESA
-elementi_spesa = [
+let elementi_spesa = [
     'Sedano',
     'Carote',
     'Cipolle',
